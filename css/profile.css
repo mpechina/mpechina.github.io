@@ -1,0 +1,14 @@
+#home {
+	background: url(../image/Mthood1.jpg) no-repeat 50% 50%;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	width: 100%;
+	display: block;
+	height: auto;
+	padding-top: 0px; /* This is spacer before the Main title Logo */
+	padding-bottom: 220px; /* This is spacer after the Main title Logo */
+	color: #fff;
+}
